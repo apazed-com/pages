@@ -1,5 +1,3 @@
-test3 - git submodule update --remote
-
 # Who's Zelda Joy?
 ## Zelda is our acquisitions director, and brand embasador.
 
