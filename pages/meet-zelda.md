@@ -1,4 +1,4 @@
-test1
+test2 - git submodule foreach git pull
 
 # Who's Zelda Joy?
 ## Zelda is our acquisitions director, and brand embasador.
