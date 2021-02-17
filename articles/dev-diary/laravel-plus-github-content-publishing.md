@@ -1,5 +1,6 @@
 Title: How to Publish Content with Github and Laravel
 Subheading: Using Github as a CMS to edit, provide comments, and automatically deploy new articles/posts
+Published: Feb. 15th 2021
 Tags: laravel, github, cms, markdown
 Author: Dan Cameron
 Featured Image: featured.jpg
