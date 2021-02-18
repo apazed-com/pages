@@ -5,6 +5,8 @@ Tags: culture, children, tv
 Author: Zelda
 Featured Image: /2021/02/oswald-the-octopus-1-thumb.webp
 Excerpt: Oswald features all the qualities of a young children’s show, with some light plot, friendly and bright colors, and encouraging messages by our hero.
+Tweet: 
+
 
 You might be surprised about the spaces you find a cephalopod character in culture. I could think of some fairly quickly, like Squidward from Spongebob, and Doctor Octopus from Spiderman (He isn’t really an octopus, but inspired by!). Those are fairly easier ones for me, because they were in some way connected with my own personal childhood. There is one octopus that has a bit of a younger group, and his name is Oswald. 
 

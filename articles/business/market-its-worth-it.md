@@ -5,7 +5,7 @@ Tags: online business, Stripe, online payments
 Author: Zelda
 Featured Image: /2021/02/pexels-prateek-katyal-2740956-thumb.webp
 Excerpt: I don’t know about you, but for me, payments can be a bit tricky. I cannot tell you how many of my friends use different apps for payments. You have Venmo, PayPal, Google, and on down the line it goes. Where possible, I’ll do cash, because it is simpler.
-
+Tweet: 
 
 # Closing the Deal
 
