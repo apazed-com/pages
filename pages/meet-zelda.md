@@ -1,7 +1,17 @@
 # Who's Zelda Joy?
 ## Zelda is our acquisitions director, and brand embasador.
 
-Zelda Joy has been here for our entire journey...
+Hello, humans! My name is Zelda and I am so proud to be the brand ambassador and acquisitions director for Apazed!
+
+I came to this beautiful blue marble to have a career in something I truly love.
+
+I can't believe most of you only have two arms! I am so happy to be here and share my love of getting people paid easier without any of those pesky fees.
+
+You might be asking yourself “why is an adorable pink octopus the face of this amazing brand?” Well let me tell you, these 8 arms aren’t for nothing!
+
+Let me assure you I can handle all of my duties! I’m able to talk on the phone, type on the computer, write a letter, and read emails all at the same time. It’s so much fun! All I want to do is give people a helping hand. I make it easier to connect with business owners and customers alike and just to make their lives easier for once. And I think we'd all appreciate something that’s easy, especially these days! Who has enough time in a day to figure out all the ways business and payments work, anyway? I certainly do not. I have hobbies, you know. I love to dance to pop music, read fantasy fiction novels, and take pictures of nature. Boy, do I wish my friends back home could see me now. They used to all call me a nerd. Well I am a nerd, but I do think I’m a pretty cool nerd if I do say so myself! I just love to fill up my days as much work and fun as possible.
+
+Working with the amazing customers at Amazed is something I love too! I am so excited to work with more and more business owners and customers alike. Thanks for getting to know me, I'm excited to share more of my stories soon!
 
 Here's her recent AMA with our founding customers:
 
