@@ -1,26 +1,31 @@
-# About Apazed
+Title: About Apazed
+Subheading: Learn more about our goals, our founders, and that one important question.
+Published: Feb. 18th 2021
 
-Baseball ipsum dolor sit amet sidearm strike zone second base. Cork hit by pitch interleague wild pitch friendly confines runs full count. Hack wild pitch hardball ground ball good eye wins sport shutout baseball card. Interleague starting pitcher cookie astroturf bases loaded shortstop hitter ejection moneyball. Extra innings pull triple play pinch runner sport pitchout field defensive indifference peanuts. Ground ball diamond rally leadoff in the hole sacrifice bunt sport cy young assist.
+<img class="float-left w-12 h-auto mr-6 " src="http://apazed.test/_pages/images/2021/02/hand-wave-thumb.webp" alt="Zelda the octopus smiling with joy" />**Hello!** Welcome to Apazed, the easiest way for sight owners to sell online. Our main goal here is to help those without the development knowledge without the engineering team start getting paid *without any additional fees*. Yes, you can upgrade to a [Pro plan](https://apazed.com/pricing) in case you need a few advanced features. That said, we're not going to bait and switch you into that Pro plan, it's why we have all the best features available for you now and forever, **for free!**    
 
-Disabled list red sox rake pine tar perfect game cookie sport field assist. Perfect game small ball reds gapper yankees cheese hall of fame ball basehit. Grounder scorecard bench save base on balls bush league friendly confines. Hey batter mustard grass wins ground ball grounder chin music squeeze. Sacrifice bunt chin music outside stance plunked, at-bat rubber sacrifice fly. Loss passed ball retire grand slam take appeal disabled list leather bag.
+<div class="mt-16 md:my-12 xl:my-16 px-6 md:px-12 xl:px-16 py-6 bg-neutral-50 dark:bg-supportDark-lighter">
 
-## Future of Apazed
+<h3>Dan Cameron</h3>
 
-Gold glove rally hall of fame hitter take knuckle passed ball losses. Dodgers center fielder pine tar hey batter first baseman perfect game club plunked skipper. Peanuts series on deck no decision grand slam at-bat rainout 4-6-3. Outfield check swing full count rope hitter ground rule double dribbler tag. Team alley rotation run grass, sport reliever wrigley first base. Gapper stance bases loaded fielder's choice cheese wins line drive rotation.
+<p>
+<img class="float-left w-48 h-auto mr-6 object-cover rounded ring-4 p-2 ring-white dark:ring-supportDark-darker" src="http://apazed.test/_pages/images/2021/02/dan-cameron-thumb.webp" alt="Zelda the octopus smiling with joy" /> <a href="https://twitter.com/dancameron">Dan Cameron</a> is the founder of Apazed, and CEO of Sprout Venture. Prior to Apazed, he successfully built and ran Sprout Invoices, an invoicing solution for WordPress sites. In early 2020, just before the world collapsed to COVID-19, he was led to pass it to a larger company with the resources and depth of knowledge to handle the growth.  Beyond his extensive business experience he loves baseball, so much you may find some easter eggs at Apazed.com, I've heard he's pretty good at golf too, at least that's what Zelda can't stop talking about. 
+</p>
+
+<h3>Zelda Joy</h3>
+
+<p>
+<img class="float-left w-auto h-40 mr-6 object-cover rounded ring-4 p-6 ring-white dark:ring-supportDark-darker" src="http://apazed.test/_pages/images/2021/02/main-thumb.webp" alt="Zelda the octopus smiling with joy" />You might be surprised that we have an octopus working for Apazed. Well, it is what it is, we simply hire the best people. Seriously though, it's truly not her fault you're rolling your eyes right now, that's on you. For those grinning a bit, you're the kind of joy filled friend <strike>she</strike> we want to see more of. If you'd like to read some great articles she's been writing head on over to <a href="/articles/" class="flex items-center justify-start mt-8 text-md font-medium tracking-wide text-neutral-800 dark:text-neutral-200 underline">articles</a>.
+</p>
+
+</div>
 
 ## What's the deal with no fees?
 
-Baseball ground ball home tag leather wins pinch hitter run. Hey batter field error curve screwball shutout run forkball. Losses ground ball outs hitter sweep grounder rubber game bases loaded on-base percentage. Crooked number alley center fielder nubber rainout grand slam choke up sport wrigley. Foul line 4-6-3 silver slugger yankees hall of fame, around the horn bat yankees visitors. Loss good eye run batted in mitt no-hitter batting average rubber.
+I don't care what they say. We will prove a sustainable business can be built to connect payment providers and site owners without the added percentage undercutting what little margin online sellers have. Currently, Stripe's fee is "2.9% + 30¢ per successful card charged", which is fantastic, and that's what all you'll be paying using Apazed. Well, unless you upgrade to that Pro plan.
 
-## Founders
+The paid upgrade is just one way we're going to make this work. The main way, is by bootstrapping this whole thing, just like you're doing for you're own business. <u>So, why not join others and do this together?</u> 
 
-### Dan Cameron
-
-Baseball ipsum dolor sit amet sidearm strike zone second base. Cork hit by pitch interleague wild pitch friendly confines runs full count. Hack wild pitch hardball ground ball good eye wins sport shutout baseball card. Interleague starting pitcher cookie astroturf bases loaded shortstop hitter ejection moneyball. Extra innings pull triple play pinch runner sport pitchout field defensive indifference peanuts. Ground ball diamond rally leadoff in the hole sacrifice bunt sport cy young assist.
-
-### Zelda Joy
-
-Disabled list red sox rake pine tar perfect game cookie sport field assist. Perfect game small ball reds gapper yankees cheese hall of fame ball basehit. Grounder scorecard bench save base on balls bush league friendly confines. Hey batter mustard grass wins ground ball grounder chin music squeeze. Sacrifice bunt chin music outside stance plunked, at-bat rubber sacrifice fly. Loss passed ball retire grand slam take appeal disabled list leather bag.
 
 
 

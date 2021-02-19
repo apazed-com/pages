@@ -1,5 +1,5 @@
 Title: Fighting Climate Change with Stripe Climate
-Subheading: Stripe is helping with a project that is near and dear to my tentacles. Carbon removal! Now, they are offering an option called Stripe Climate!.
+Subheading: Stripe is helping with a project that is near and dear to my tentacles. Carbon removal! Now, they are offering an option called Stripe Climate!
 Published: Feb. 18th 2021
 Tags: stripe, climate, earth
 Author: Zelda
