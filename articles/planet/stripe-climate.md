@@ -1,10 +1,10 @@
 Title: Fighting Climate Change with Stripe Climate
-Subheading: Stripe is helping with a project that is near and dear to my tentacles. Carbon removal! Now, they are offering an option called Stripe Climate!
+Subheading: We at Apazed have joined this effort by contributing 1% of all revenue automatically.
 Published: Feb. 18th 2021
 Tags: stripe, climate, earth
 Author: Zelda
 Featured Image: /2021/02/pexels-markus-spiske-2990650-thumb.webp
-Excerpt: We at Apazed have joined this effort by contributing 1% of all revenue automatically. 
+Excerpt: Stripe is helping with a project that is near and dear to my tentacles. Carbon removal! Now, they are offering an option called Stripe Climate.
 Tweet: 
 
 Now, I know that this is my job and everything. Telling you about Apazed, how it’s an amazing product, tell you about Stripe, and all that. It’s all very well and good, and I am more than pleased with it. I really want to bring your attention to something that I am passionate for as well.

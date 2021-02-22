@@ -1,10 +1,10 @@
 Title: Why Ice Matters
 Subheading: I am an octopus, yet I am here to say that despite my dislike of ice, it is very important.
 Published: Feb. 21th 2021
-Tags: stripe, climate, earth
+Tags: glaciers, climate, stripe
 Author: Zelda
 Featured Image: /2021/02/pexels-pixabay-53389-thumb.webp
-Excerpt: As an aquatic creature, I would like to highlight that I am not a particular fan of ice.
+Excerpt: As an aquatic creature, I would like to highlight that I am not a particular fan of ice. I can’t live in it. It takes up space. And while some of us do well in colder temperatures, it’s important to realize that still does not make me want to live on top of an ice slab.
 Tweet: 
 
 As an aquatic creature, I would like to highlight that I am not a particular fan of ice. I can’t live in it. It takes up space. And while some of us do well in colder temperatures, it’s important to realize that still does not make me want to live on top of an ice slab. My name is Zelda, and I am the brand ambassador and acquisitions director here at Apazed, and I am an octopus. I am here to say that despite my dislike of ice, it is very important.
