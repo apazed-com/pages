@@ -97,8 +97,8 @@ return [
 Notice that using Parsdown to filter the Markdown. Laravel is doing [the same to handle urls](https://github.com/laravel/laravel.com-next/blob/master/app/Parsedown.php). We're using a new Parsedown to add classes to images, set image paths correct, and manipulate link styling.  
 
 ```php
-$text = str_replace( 'img src="', 'img class="my-12 w-full ..." src="/_pages/images', $text );
-$text = str_replace( '<a ', '<a class="text-link hover:text-linkHover"', $text );
+$text = str_replace( 'imgsrctag', 'img class="my-12 w-full ..." src="/_pages/images', $text );
+$text = str_replace( 'atag', '<a class="text-link hover:text-linkHover"', $text );
 // ...
 ```
 **
