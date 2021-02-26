@@ -5,6 +5,7 @@ Tags: laravel, github, cms, markdown
 Author: Dan Cameron
 Featured Image: /2021/02/PageController.php-thumb.webp
 Excerpt: Using Github as a CMS to edit, provide comments, and automatically deploy new articles/posts with multiple authors.
+Tweet: 1365162261120094211
 
 ### Why we Decided to Use Github as a CMS
 
