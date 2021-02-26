@@ -3,7 +3,7 @@ Subheading: Using Github as a CMS, we publish pages to our Laravel driven site a
 Published: Feb. 25th, 2021
 Tags: laravel, github, cms, markdown
 Author: Dan Cameron
-Featured Image: /2021/02/github-trigger-thumb.webp
+Featured Image: /2021/02/PageController.php-thumb.webp
 Excerpt: Using Github as a CMS to edit, provide comments, and automatically deploy new articles/posts with multiple authors.
 
 ### Why we Decided to Use Github as a CMS
@@ -101,7 +101,6 @@ $text = str_replace( 'imgsrctag', 'img class="my-12 w-full ..." src="/_pages/ima
 $text = str_replace( 'atag', '<a class="text-link hover:text-linkHover"', $text );
 // ...
 ```
-**
 
 **6. Wrap Up**
 
@@ -146,6 +145,5 @@ purge: [
 **Images**
 
 We have an [images directory](https://github.com/apazed-com/pages/tree/master/images) that stores all of the images, and Parsedown fixes the paths to the images so that when writing I can use a simple path, i.e. ```/2021/02/github-trigger-1200.webp```.
-
 
 
