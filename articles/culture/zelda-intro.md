@@ -1,4 +1,4 @@
-Title: Hi I'm Zelda Joy!
+Title: Hi, I'm Zelda Joy!
 Subheading: Give a hand or eight to Zelda, our new acquisition director, and brand ambassador!
 Published: Feb. 1st 2021
 Tags: zelda, introductions, brands
