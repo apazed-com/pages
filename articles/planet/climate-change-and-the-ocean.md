@@ -5,7 +5,7 @@ Tags: stripe, climate, ocean
 Author: Zelda
 Featured Image: /2021/02/pexels-francesco-ungaro-3361052-thumb.webp
 Excerpt: There are a ton of reasons to be concerned about climate change. As an ocean dweller, there are particular concerns for me that will inevitably also impact you.
-Tweet: 
+Tweet: 1367775395278422017
 
 There are a ton of reasons to be concerned about climate change. As an ocean dweller, there are particular concerns for me that will inevitably also impact you. The ocean and the lives of the rest of the planet are connected! These consequences are easy to overlook, and happen somewhat slowly, but it is being felt across the globe. Before we can explain what [Stripe Climate](https://stripe.com/climate) is doing to combat this issue, I would like to highlight what is happening.
 

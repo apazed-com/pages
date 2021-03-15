@@ -5,7 +5,7 @@ Tags: stripe, climate, earth
 Author: Zelda
 Featured Image: /2021/02/pexels-markus-spiske-2990650-thumb.webp
 Excerpt: Stripe is helping with a project that is near and dear to my tentacles. Carbon removal! Now, they are offering an option called Stripe Climate.
-Tweet: 
+Tweet: 1367157574408298501
 
 Now, I know that this is my job and everything. Telling you about Apazed, how it’s an amazing product, tell you about Stripe, and all that. It’s all very well and good, and I am more than pleased with it. I really want to bring your attention to something that I am passionate for as well.
 
