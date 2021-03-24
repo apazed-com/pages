@@ -56,12 +56,12 @@ https://static.wikia.nocookie.net/megaman/images/4/4e/Mmx5squidadler.jpg/revisio
 
 9. Volt Kraken from Mega Man X5
 
-Volt Kraken is a robot, infected by the same virus that has ravaged the robot populous of the Mega Man franchise. This boss is characterized by his electric attacks. This squid enemy is also known to launch electrical strikes from the tentacles attached to him. I don’t find myself envious of squid characters frequently, but I do find myself a touch jealous of such power.
+Volt Kraken is a robot, infected by the same virus that has ravaged the robot populace of the Mega Man franchise. This boss is characterized by his electric attacks. This squid enemy is also known to launch electrical strikes from the tentacles attached to him. I don’t find myself envious of squid characters frequently, but I do find myself a touch jealous of such power.
 
 https://static.wikia.nocookie.net/kirby/images/c/cc/Capamari_Stage_Preview.png/revision/latest?cb=20180622185620&path-prefix=en 
 
 10. Capamari from Kirby’s Epic Yarn
 
-This one is a bit complex. In the first place, the squid like creature may just be an octopus wearing a hat to look like a squid. In the second, it really does seem like this creature is mainly just living its life and happens to be in the way of the protagonist. While it is a holder of the pieces Kirby has sought after, it does feel a touch strange. But either way, this boss packs a punch!
+This one is a bit complex. In the first place, the squid-like creature may just be an octopus wearing a hat to look like a squid. In the second, it really does seem like this creature is mainly just living its life and happens to be in the way of the protagonist. While it is a holder of the pieces Kirby has sought after, it does feel a touch strange. But either way, this boss packs a punch!
 
 
