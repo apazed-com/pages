@@ -2,7 +2,7 @@ Title: 10 Video Game Squid Villains
 
 
 
-As has been discussed before, there are significant differences between the octopus and the squid. As an octopus myself, I find it important to defend and to clear our good name. There are many villains portrayed within video games, and I would like to highlight the nefarious acts of squids. I am not saying that all squids are evil, but what I am saying is that these squids are, and that often the octopus gets blamed for crimes that the squid commits!
+As has been discussed before, there are significant differences between the octopus and the squid. As an octopus myself, I find it important to defend and to clear our good name. There are many villains portrayed within video games, and I would like to highlight the nefarious acts of squids. I am not saying that all squids are evil, but what I am saying is that these squids are, and that often the octopus gets blamed for crimes that the squid commits! Let's get into the depths of the squid criminal empire, and stop them blotting the octopus's good name.
 
 
 
