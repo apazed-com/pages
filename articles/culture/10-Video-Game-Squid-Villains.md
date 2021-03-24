@@ -64,7 +64,7 @@ https://www.minecraft.net/content/dam/archive/ccf798121fedc3e0772ef7bf621ae538-m
 
 These creatures ‘live’ within the Nether of Minecraft. It is a hellish landscape, though recently updated with a few more pleasant biomes and entities. The Ghast, however, is a flying, crying, destructive creature. Where it’s water brethren in the overworld merely release ink as a defense mechanism, the Ghast forgoes all semblance of civility. It will fly about, and shoot fireballs at you, trying to destroy you, your creations, and the very ground on which you are precariously perched. Now, if you are curious as to why I suggest they are squids, and how they are related to their overworld companions, consider this: what happens to all of that rage and greed of the squid after it perishes? Surely the Nether is it’s ultimate destination. (This is all just a mild joke. The ghast merely has tentacles, and is pointy, so it is probably like a squid and not an octopus!)
 
-‘Squids’ from Minecraft
+1. ‘Squids’ from Minecraft
 
 https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/24/Particle_squid_ink.png/revision/latest?cb=20191016081248 
 
