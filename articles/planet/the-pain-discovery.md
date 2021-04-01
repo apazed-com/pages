@@ -5,7 +5,7 @@ Tags: science, octopuses, health
 Author: Zelda
 Featured Image: /2021/03/pexels-pixabay-42230-thumb.webp
 Excerpt: My name is Zelda the octopus, and this may come as a shock to some of you, but I can actually experience pain.
-Tweet: 
+Tweet: 1377666593908387842
 
 My name is Zelda the octopus, and this may come as a shock to some of you, but I can actually experience pain. Now, I can understand where the confusion comes from. Often times with other aquatic creatures, we assume that they do not have the ability to experience pain in the same way that humans do. This is an area of a great deal of study, and has a lot to do with neuroscience and behavioral understanding. Which is a lot of work to be able to accurately measure, what at times feels like it can merely be intuited.
 

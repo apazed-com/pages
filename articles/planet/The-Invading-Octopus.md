@@ -5,7 +5,7 @@ Tags: octopuses, climate, earth
 Author: Zelda
 Featured Image: /2021/03/pexels-quang-nguyen-vinh-3872004-thumb.webp
 Excerpt: While I am still the acquisitions director, and the brand ambassador here at Apazed, I cannot overlook my role and position as an octopus.
-Tweet: 
+Tweet: 1374424985641517057
 
 
 Over the last few articles, I have been telling you about the dangers climate change pose to the oceans, as well as to humanity. This time, I, Zelda the octopus, would like to give you some advanced notice. While I am still the acquisitions director, and the brand ambassador here at Apazed, I cannot overlook my role and position as an octopus.
